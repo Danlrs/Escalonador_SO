@@ -63,7 +63,7 @@ O aumento do quantum permite que mais instruções sejam executadas antes de uma
 - **Processos**: `01.txt` até `10.txt`
 
 ## Autoria
-Desenvolvido como parte da disciplina de Sistemas Operacionais, sob orientação do prof. Elinaldo Santos de Góes Júnior.
+Desenvolvido por Daniel Lucas Rios da Silva como parte da disciplina de Sistemas Operacionais, sob orientação do prof. Elinaldo Santos de Góes Júnior.
 
 Universidade Estadual de Feira de Santana (UEFS)
 
