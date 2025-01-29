@@ -1,0 +1,17 @@
+TESTE-1
+A=5
+B=3
+COM
+COM
+C=2
+COM
+E/S
+D=10
+B=2
+COM
+E/S
+COM
+E/S
+COM
+E/S
+SAIDA

@@ -1,0 +1,115 @@
+Carregando TESTE-1
+Carregando TESTE-2
+Carregando TESTE-3
+Carregando TESTE-4
+Carregando TESTE-5
+Carregando TESTE-6
+Carregando TESTE-7
+Carregando TESTE-8
+Carregando TESTE-9
+Carregando TESTE-10
+Executando TESTE-1
+Interrompendo TESTE-1 após 5 instruções
+Executando TESTE-2
+E/S iniciada em TESTE-2
+Executando TESTE-3
+E/S iniciada em TESTE-3
+Executando TESTE-4
+E/S iniciada em TESTE-4
+Executando TESTE-5
+E/S iniciada em TESTE-5
+Executando TESTE-6
+E/S iniciada em TESTE-6
+Executando TESTE-7
+E/S iniciada em TESTE-7
+Executando TESTE-8
+Interrompendo TESTE-8 após 5 instruções
+Executando TESTE-9
+E/S iniciada em TESTE-9
+Executando TESTE-10
+Interrompendo TESTE-10 após 5 instruções
+Executando TESTE-1
+E/S iniciada em TESTE-1
+Executando TESTE-2
+E/S iniciada em TESTE-2
+Executando TESTE-3
+Interrompendo TESTE-3 após 5 instruções
+Executando TESTE-4
+E/S iniciada em TESTE-4
+Executando TESTE-5
+E/S iniciada em TESTE-5
+Executando TESTE-6
+Interrompendo TESTE-6 após 5 instruções
+Executando TESTE-8
+Interrompendo TESTE-8 após 5 instruções
+Executando TESTE-7
+Interrompendo TESTE-7 após 5 instruções
+Executando TESTE-10
+E/S iniciada em TESTE-10
+Executando TESTE-9
+Interrompendo TESTE-9 após 5 instruções
+Executando TESTE-1
+E/S iniciada em TESTE-1
+Executando TESTE-3
+Interrompendo TESTE-3 após 5 instruções
+Executando TESTE-2
+E/S iniciada em TESTE-2
+Executando TESTE-4
+E/S iniciada em TESTE-4
+Executando TESTE-6
+E/S iniciada em TESTE-6
+Executando TESTE-5
+E/S iniciada em TESTE-5
+Executando TESTE-8
+Interrompendo TESTE-8 após 5 instruções
+Executando TESTE-7
+E/S iniciada em TESTE-7
+Executando TESTE-9
+Interrompendo TESTE-9 após 5 instruções
+Executando TESTE-10
+TESTE-10 terminado. A=0. B=0. C=0. D=0
+Executando TESTE-3
+E/S iniciada em TESTE-3
+Executando TESTE-1
+E/S iniciada em TESTE-1
+Executando TESTE-2
+E/S iniciada em TESTE-2
+Executando TESTE-4
+E/S iniciada em TESTE-4
+Executando TESTE-6
+E/S iniciada em TESTE-6
+Executando TESTE-8
+Interrompendo TESTE-8 após 5 instruções
+Executando TESTE-5
+E/S iniciada em TESTE-5
+Executando TESTE-9
+E/S iniciada em TESTE-9
+Executando TESTE-7
+TESTE-7 terminado. A=3. B=5. C=1. D=2
+Executando TESTE-3
+TESTE-3 terminado. A=3. B=91. C=10. D=4
+Executando TESTE-1
+E/S iniciada em TESTE-1
+Executando TESTE-2
+E/S iniciada em TESTE-2
+Executando TESTE-4
+E/S iniciada em TESTE-4
+Executando TESTE-8
+TESTE-8 terminado. A=5. B=10. C=12. D=1
+Executando TESTE-6
+TESTE-6 terminado. A=9. B=5. C=0. D=0
+Executando TESTE-5
+E/S iniciada em TESTE-5
+Executando TESTE-9
+TESTE-9 terminado. A=0. B=0. C=0. D=0
+Executando TESTE-1
+TESTE-1 terminado. A=5. B=2. C=2. D=10
+Executando TESTE-2
+TESTE-2 abortado: atingiu o limite de 21 instruções.
+Executando TESTE-4
+TESTE-4 terminado. A=2. B=5. C=3. D=9
+Executando TESTE-5
+TESTE-5 terminado. A=0. B=3. C=2. D=0
+MEDIA DE TROCAS: 2.20
+MEDIA DE INSTRUCOES: 3.83
+QUANTUM: 5

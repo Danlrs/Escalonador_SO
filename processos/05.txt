@@ -1,0 +1,13 @@
+TESTE-5
+B=3
+COM
+E/S
+COM
+E/S
+C=2
+E/S
+COM
+E/S
+COM
+E/S
+SAIDA

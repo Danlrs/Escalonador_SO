@@ -1,0 +1,15 @@
+TESTE-7
+A=12
+COM
+COM
+E/S
+B=5
+COM
+C=1
+D=2
+A=3
+COM
+COM
+COM
+E/S
+SAIDA
